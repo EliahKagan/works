@@ -1,3 +1,5 @@
+[Please read readme.txt if you have not done so already.]
+
 Bjarne Stroustrup
 Are lists evil?
 http://stroustrup.com/bs_faq.html#list
