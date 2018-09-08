@@ -1,0 +1,13 @@
+Bjarne Stroustrup
+Are lists evil?
+http://stroustrup.com/bs_faq.html#list
+Software Development for Infrastructure
+http://www.stroustrup.com/Software-for-infrastructure.pdf
+C++ Style
+https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Keynote-Bjarne-Stroustrup-Cpp11-Style
+
+
+Herb Sutter
+Leak-Freedom in C++... By Default.
+https://channel9.msdn.com/Events/CPP/CppCon-2016/CppCon-2016-Herb-Sutter-Leak-Freedom-in-C-By-Default
+https://github.com/CppCon/CppCon2016/blob/master/Presentations/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction%20-%20Herb%20Sutter%20-%20CppCon%202016.pdf
