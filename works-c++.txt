@@ -13,6 +13,11 @@ Herb Sutter
 https://channel9.msdn.com/Events/CPP/CppCon-2016/CppCon-2016-Herb-Sutter-Leak-Freedom-in-C-By-Default
 [slides] https://github.com/CppCon/CppCon2016/blob/master/Presentations/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction%20-%20Herb%20Sutter%20-%20CppCon%202016.pdf
 
+Bjarne Stroustrup
+* "New" Value Terminology [short paper]
+http://www.stroustrup.com/terminology.pdf
+Especially the portion Ivan Kush quotes at https://stackoverflow.com/a/38169963.
+
 Scott Meyers
 * Move Semantics, Perfect Forwarding, and Rvalue references [talk]
 https://skillsmatter.com/skillscasts/2188-move-semanticsperfect-forwarding-and-rvalue-references
@@ -27,5 +32,5 @@ https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Univ
 [NB: type alises with "using" are eligible for reference collapsing, just like typedef]
 
 Stephan T. Lavavej
-Core C++ [10-part lecture series]
+* Core C++ [10-part lecture series]
 https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
