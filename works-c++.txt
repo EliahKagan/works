@@ -1,14 +1,26 @@
 [Please read readme.txt if you have not done so already.]
 
 Bjarne Stroustrup
-Are lists evil?
+Are lists evil? [faq section]
 http://stroustrup.com/bs_faq.html#list
-Software Development for Infrastructure
+Software Development for Infrastructure [paper]
 http://www.stroustrup.com/Software-for-infrastructure.pdf
-C++ Style
+C++ Style [talk]
 https://channel9.msdn.com/Events/GoingNative/GoingNative-2012/Keynote-Bjarne-Stroustrup-Cpp11-Style
 
 Herb Sutter
 Leak-Freedom in C++... By Default.
 https://channel9.msdn.com/Events/CPP/CppCon-2016/CppCon-2016-Herb-Sutter-Leak-Freedom-in-C-By-Default
 https://github.com/CppCon/CppCon2016/blob/master/Presentations/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction/Lifetime%20Safety%20By%20Default%20-%20Making%20Code%20Leak-Free%20by%20Construction%20-%20Herb%20Sutter%20-%20CppCon%202016.pdf
+
+Scott Meyers
+Universal References in C++ [paper]
+https://isocpp.org/blog/2012/11/universal-references-in-c11-scott-meyers
+Universal References in C++11 [talk]
+https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Universal-References-in-Cpp11
+[NB: "forwarding reference" is now the accepted term for "universal reference"]
+[NB: type alises with "using" are eligible for reference collapsing, just like typedef]
+
+Stephan T. Lavavej
+Core C++ [10-part lecture series]
+https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
