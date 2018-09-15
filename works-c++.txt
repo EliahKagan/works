@@ -40,6 +40,14 @@ Arthur O'Dwyer
 * Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
 https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
 
+Scott Meyers
+* Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 [book]
+http://shop.oreilly.com/product/0636920033707.do?cmp=af-code-books-video-product_cj_0636920033707_7708709
+https://play.google.com/store/books/details/Scott_Meyers_Effective_Modern_C?id=ZDhIBQAAQBAJ
+https://www.alibris.com/Effective-Modern-C-42-Specific-Ways-to-Improve-Your-Use-of-C-11-and-C-14-Scott-Meyers/book/28052903?matches=19
+https://smile.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?ie=UTF8&qid=1537038421&sr=8-2&keywords=effective+modern+c%2B%2B&dpID=51eFBpqPSLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
+[errata] http://www.aristeia.com/BookErrata/emc++-errata.html
+
 Stephan T. Lavavej
 * Core C++ [10-part lecture series]
 https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
@@ -54,3 +62,7 @@ Herb Sutter
 * Back to the Basics! Essentials of Modern C++ Style [talk]
 https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/0010-Back-to-the-Basics-Essentials-of-Modern-C-Style
 [slides] https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf
+
+Robert Nystrom
+* Game Programming Patterns [book]
+http://gameprogrammingpatterns.com/
