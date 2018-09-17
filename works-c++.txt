@@ -39,6 +39,12 @@ https://channel9.msdn.com/Shows/Going+Deep/Cpp-and-Beyond-2012-Scott-Meyers-Univ
 [NB: "forwarding reference" is now the accepted term for "universal reference"]
 [NB: type alises with "using" are eligible for reference collapsing, just like typedef]
 
+(no byline given; probably written by one or more Google software engineers)
+* Tip of the Week #49: Argument-Dependent Lookup
+https://abseil.io/tips/49
+[for more details: https://en.cppreference.com/w/cpp/language/adl]
+[keep in mind: https://en.cppreference.com/w/cpp/language/dependent_name#Lookup_rules]
+
 Arthur O'Dwyer
 * Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
 https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
