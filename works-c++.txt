@@ -72,6 +72,10 @@ Herb Sutter
 https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/0010-Back-to-the-Basics-Essentials-of-Modern-C-Style
 [slides] https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf
 
+Jonathan Boccara
+* 105 STL Algorithms in Less Than an Hour [talk]
+https://www.youtube.com/watch?v=2olsGf6JIkU
+
 Robert Nystrom
 * Game Programming Patterns [book]
 http://gameprogrammingpatterns.com/
