@@ -47,7 +47,8 @@ https://abseil.io/tips/49
 
 Sean Parent
 * Generic Programming [talk]
-[NB: The works shown in the talk are:
+[slides and papers] https://github.com/sean-parent/sean-parent.github.io/tree/master/presentations/2018-10-18-generic-programming
+[NB: The written works shown in the talk are:
     - Generic Programming (Musser et al. 1988)
         http://stepanovpapers.com/genprog.pdf
     - The Standard Template Library (Stepanov & Lee 1995)
