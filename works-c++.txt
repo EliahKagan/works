@@ -45,6 +45,33 @@ https://abseil.io/tips/49
 [for more details: https://en.cppreference.com/w/cpp/language/adl]
 [keep in mind: https://en.cppreference.com/w/cpp/language/dependent_name#Lookup_rules]
 
+Sean Parent
+* Generic Programming [talk]
+[NB: The works shown in the talk are:
+    - Generic Programming (Musser et al. 1988)
+        http://stepanovpapers.com/genprog.pdf
+    - The Standard Template Library (Stepanov & Lee 1995)
+        http://stepanovpapers.com/STL/DOC.PDF
+    - Programming Pearls: Writing Correct Programs (Bentley 1983)
+        https://www.cs.tufts.edu/~nr/cs257/archive/jon-bentley/correct-programs.pdf
+    - Exception Safety in Generic Components (Abrahams 1998)
+        https://www.boost.org/community/exception_safety.html
+    - Fundamentals of Generic Programming (Denhert & Stepanov 1998)
+        http://stepanovpapers.com/DeSt98.pdf
+    - Notes on the Foundations of Programming (Stepanov & Marcus)
+        http://stepanovpapers.com/PAM.pdf
+    - Elements of Programming (Stepanov & McJones 2009) [*]
+        http://elementsofprogramming.com/book.html
+    - Concepts: Linguistic Support for Generic Programming in C++ (Gregor et al. 2006)
+        http://www.stroustrup.com/oopsla06.pdf
+    - A Concept Design for the STL (ed. Stroustrup & Sutton 2012)
+        http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2012/n3351.pdf
+    - From Mathematics to Generic Programming (Stepanov & Rose 2015)
+        http://www.fm2gp.com/
+    - C++ Standard Draft Sources
+        https://github.com/cplusplus/draft
+  [*] Very worth reading.]
+
 Dan Saks
 * Making New Friends [talk]
 https://www.youtube.com/watch?v=POa_V15je8Y
