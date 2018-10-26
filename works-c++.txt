@@ -45,6 +45,42 @@ https://abseil.io/tips/49
 [for more details: https://en.cppreference.com/w/cpp/language/adl]
 [keep in mind: https://en.cppreference.com/w/cpp/language/dependent_name#Lookup_rules]
 
+Scott Meyers
+* Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 [book]
+http://shop.oreilly.com/product/0636920033707.do?cmp=af-code-books-video-product_cj_0636920033707_7708709
+https://play.google.com/store/books/details/Scott_Meyers_Effective_Modern_C?id=ZDhIBQAAQBAJ
+https://www.alibris.com/Effective-Modern-C-42-Specific-Ways-to-Improve-Your-Use-of-C-11-and-C-14-Scott-Meyers/book/28052903?matches=19
+https://smile.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?ie=UTF8&qid=1537038421&sr=8-2&keywords=effective+modern+c%2B%2B&dpID=51eFBpqPSLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
+[errata] http://www.aristeia.com/BookErrata/emc++-errata.html
+
+Stephan T. Lavavej
+* Core C++ [10-part lecture series]
+https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
+
+Stephan T. Lavavej
+* Don’t Help the Compiler [talk]
+https://channel9.msdn.com/Events/GoingNative/2013/Don-t-Help-the-Compiler
+[slides] http://view.officeapps.live.com/op/view.aspx?src=http%3a%2f%2fvideo.ch9.ms%2fsessions%2fgonat%2f2013%2fSTLGN13Compiler.pptx
+[NB: The bonus slides, which were not covered in the talk, are worth checking out.]
+
+Dan Saks
+* Making New Friends [talk]
+https://www.youtube.com/watch?v=POa_V15je8Y
+[NB: slides 43-46 wrongly suggest friend declarations can't always use the injected class name]
+
+Arthur O'Dwyer
+* Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
+https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
+
+Herb Sutter
+* Back to the Basics! Essentials of Modern C++ Style [talk]
+https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/0010-Back-to-the-Basics-Essentials-of-Modern-C-Style
+[slides] https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf
+
+Jonathan Boccara
+* 105 STL Algorithms in Less Than an Hour [talk]
+https://www.youtube.com/watch?v=2olsGf6JIkU
+
 Sean Parent
 * Generic Programming [talk]
 [slides and papers] https://github.com/sean-parent/sean-parent.github.io/tree/master/presentations/2018-10-18-generic-programming
@@ -72,42 +108,6 @@ Sean Parent
     - C++ Standard Draft Sources
         https://github.com/cplusplus/draft
   [*] Very worth reading.]
-
-Jonathan Boccara
-* 105 STL Algorithms in Less Than an Hour [talk]
-https://www.youtube.com/watch?v=2olsGf6JIkU
-
-Dan Saks
-* Making New Friends [talk]
-https://www.youtube.com/watch?v=POa_V15je8Y
-[NB: slides 43-46 wrongly suggest friend declarations can't always use the injected class name]
-
-Arthur O'Dwyer
-* Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
-https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
-
-Scott Meyers
-* Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 [book]
-http://shop.oreilly.com/product/0636920033707.do?cmp=af-code-books-video-product_cj_0636920033707_7708709
-https://play.google.com/store/books/details/Scott_Meyers_Effective_Modern_C?id=ZDhIBQAAQBAJ
-https://www.alibris.com/Effective-Modern-C-42-Specific-Ways-to-Improve-Your-Use-of-C-11-and-C-14-Scott-Meyers/book/28052903?matches=19
-https://smile.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?ie=UTF8&qid=1537038421&sr=8-2&keywords=effective+modern+c%2B%2B&dpID=51eFBpqPSLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
-[errata] http://www.aristeia.com/BookErrata/emc++-errata.html
-
-Stephan T. Lavavej
-* Core C++ [10-part lecture series]
-https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
-
-Stephan T. Lavavej
-* Don’t Help the Compiler [talk]
-https://channel9.msdn.com/Events/GoingNative/2013/Don-t-Help-the-Compiler
-[slides] http://view.officeapps.live.com/op/view.aspx?src=http%3a%2f%2fvideo.ch9.ms%2fsessions%2fgonat%2f2013%2fSTLGN13Compiler.pptx
-[NB: The bonus slides, which were not covered in the talk, are worth checking out.]
-
-Herb Sutter
-* Back to the Basics! Essentials of Modern C++ Style [talk]
-https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/0010-Back-to-the-Basics-Essentials-of-Modern-C-Style
-[slides] https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf
 
 Titus Winters
 * Modern C++ Design (part 1 of 2) [talk]
