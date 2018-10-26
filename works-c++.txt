@@ -53,6 +53,10 @@ https://www.alibris.com/Effective-Modern-C-42-Specific-Ways-to-Improve-Your-Use-
 https://smile.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?ie=UTF8&qid=1537038421&sr=8-2&keywords=effective+modern+c%2B%2B&dpID=51eFBpqPSLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
 [errata] http://www.aristeia.com/BookErrata/emc++-errata.html
 
+Arthur O'Dwyer
+* Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
+https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
+
 Stephan T. Lavavej
 * Core C++ [10-part lecture series]
 https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Core-C-
@@ -63,14 +67,15 @@ https://channel9.msdn.com/Events/GoingNative/2013/Don-t-Help-the-Compiler
 [slides] http://view.officeapps.live.com/op/view.aspx?src=http%3a%2f%2fvideo.ch9.ms%2fsessions%2fgonat%2f2013%2fSTLGN13Compiler.pptx
 [NB: The bonus slides, which were not covered in the talk, are worth checking out.]
 
+Walter E. Brown
+* C++ Function Templates: How Do They Really Work? [talk]
+https://www.youtube.com/watch?v=NIDEjY5ywqU
+[NB: Slides, including some not shown, supposedly exist, but I haven't found them.]
+
 Dan Saks
 * Making New Friends [talk]
 https://www.youtube.com/watch?v=POa_V15je8Y
 [NB: slides 43-46 wrongly suggest friend declarations can't always use the injected class name]
-
-Arthur O'Dwyer
-* Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
-https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
 
 Herb Sutter
 * Back to the Basics! Essentials of Modern C++ Style [talk]
