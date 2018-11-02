@@ -67,6 +67,16 @@ https://channel9.msdn.com/Events/GoingNative/2013/Don-t-Help-the-Compiler
 [slides] http://view.officeapps.live.com/op/view.aspx?src=http%3a%2f%2fvideo.ch9.ms%2fsessions%2fgonat%2f2013%2fSTLGN13Compiler.pptx
 [NB: The bonus slides, which were not covered in the talk, are worth checking out.]
 
+Herb Sutter
+* Back to the Basics! Essentials of Modern C++ Style [talk]
+https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/0010-Back-to-the-Basics-Essentials-of-Modern-C-Style
+[slides] https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf
+
+Nicolai Josuttis
+* The Nightmare of Initialization in C++
+https://www.youtube.com/watch?v=7DTlWPgX6zs
+[NB: The issue https://youtu.be/7DTlWPgX6zs?t=2957 describes is particularly surprising.]
+
 Walter E. Brown
 * C++ Function Templates: How Do They Really Work? [talk]
 https://www.youtube.com/watch?v=NIDEjY5ywqU
@@ -76,11 +86,6 @@ Dan Saks
 * Making New Friends [talk]
 https://www.youtube.com/watch?v=POa_V15je8Y
 [NB: slides 43-46 wrongly suggest friend declarations can't always use the injected class name]
-
-Herb Sutter
-* Back to the Basics! Essentials of Modern C++ Style [talk]
-https://channel9.msdn.com/Events/CPP/C-PP-Con-2014/0010-Back-to-the-Basics-Essentials-of-Modern-C-Style
-[slides] https://github.com/CppCon/CppCon2014/blob/master/Presentations/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style/Back%20to%20the%20Basics!%20Essentials%20of%20Modern%20C%2B%2B%20Style%20-%20Herb%20Sutter%20-%20CppCon%202014.pdf
 
 Jonathan Boccara
 * 105 STL Algorithms in Less Than an Hour [talk]
