@@ -45,6 +45,15 @@ https://abseil.io/tips/49
 [for more details: https://en.cppreference.com/w/cpp/language/adl]
 [keep in mind: https://en.cppreference.com/w/cpp/language/dependent_name#Lookup_rules]
 
+Arthur O'Dwyer
+* Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
+https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
+
+Scott Meyers
+* The Last Thing D Needs [talk]
+https://www.youtube.com/watch?v=KAWA1DuvCnQ
+[Covers some commonly confusing aspects of C++'s type system.]
+
 Scott Meyers
 * Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 [book]
 http://shop.oreilly.com/product/0636920033707.do?cmp=af-code-books-video-product_cj_0636920033707_7708709
@@ -52,10 +61,6 @@ https://play.google.com/store/books/details/Scott_Meyers_Effective_Modern_C?id=Z
 https://www.alibris.com/Effective-Modern-C-42-Specific-Ways-to-Improve-Your-Use-of-C-11-and-C-14-Scott-Meyers/book/28052903?matches=19
 https://smile.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_2?ie=UTF8&qid=1537038421&sr=8-2&keywords=effective+modern+c%2B%2B&dpID=51eFBpqPSLL&preST=_SX218_BO1,204,203,200_QL40_&dpSrc=srch
 [errata] http://www.aristeia.com/BookErrata/emc++-errata.html
-
-Arthur O'Dwyer
-* Lambdas from First Principles: A Whirlwind Tour of C++ [talk]
-https://channel9.msdn.com/Events/CPP/CppCon-2015/CPPConD01V009
 
 Stephan T. Lavavej
 * Core C++ [10-part lecture series]
