@@ -136,6 +136,10 @@ https://www.youtube.com/watch?v=tn7oVNrPM8I
 * Revisiting Regular Types [blog post]
 https://abseil.io/blog/20180531-regular-types
 
+Chandler Carruth
+ * LLVM: A Modern, Open C++ Toolchain [talk]
+https://www.youtube.com/watch?v=uZI_Qla4pNA
+
 Robert Nystrom
 * Game Programming Patterns [book]
 http://gameprogrammingpatterns.com/
