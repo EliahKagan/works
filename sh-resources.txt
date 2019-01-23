@@ -111,8 +111,8 @@ shells themselves.
 I don't recommend HackerRank has an initial learning resource for shell
 scripting, but once you have some familiarity, you can try doing all the
 "Linux Shell" exercises. Also, many (perhaps all) of the Regex exercises, in
-the Applications subdomain, are good Bash scripting exercises. (Remember that
-you can, and usually should, call external commands like grep, sed, and awk.)
+the Applications subdomain, can be used for Bash scripting practice. (Remember
+that you can, and usually should, use external tools like grep, sed, and awk.)
 - https://www.hackerrank.com/domains/shell
 - https://www.hackerrank.com/domains/regex
 
