@@ -4,4 +4,4 @@ other. Different works by the same author will most often appear in separate
 stanzas. Each stanza is intended as a single recommendation.
 
 sh-resources.txt is a fairly disorganized list of useful resources for learning
-and doing shell scripting.
+and doing shell scripting. It includes commentary. Perhaps more than necessary.
