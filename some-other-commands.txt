@@ -48,7 +48,6 @@ cpp
 csc
 csh
 csharp
-curtin
 cvs
 dc
 ddrescue
@@ -317,7 +316,6 @@ traceroute6
 trap
 twm
 typeset
-ubiquity
 ufw
 uncompress
 uncompress.real
