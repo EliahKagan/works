@@ -299,6 +299,7 @@ www-browser
 xargs
 xclock
 xdg-open
+xterm
 xxd
 xz
 xzcat
