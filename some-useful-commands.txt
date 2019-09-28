@@ -51,10 +51,10 @@ debman
 declare
 delgroup
 deluser
-dirs
 df
 dh
 diff
+dirs
 disown
 dman
 dmesg
