@@ -113,6 +113,7 @@ journalctl
 kill
 killall
 ksh
+ksh93
 ldd
 less
 links
