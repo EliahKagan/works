@@ -56,6 +56,7 @@ deluser
 df
 dh
 diff
+dirname
 dirs
 disown
 dman
