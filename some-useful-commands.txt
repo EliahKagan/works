@@ -169,7 +169,6 @@ passwd
 paste
 pastebinit
 patch
-pcregrep
 perl
 pgrep
 pico
