@@ -68,7 +68,7 @@ Check relevant tags (like the bash tag) as well as searching.
 - https://stackoverflow.com/
 
 Stéphane Chazelas (whom you may know of as he discovered Bashdoor/Shellshock)
-and Gilles are extraordinarly knowledgeable about shells (as well as Unix-like
+and Gilles are extraordinarily knowledgeable about shells (as well as Unix-like
 operating system topics in general), even compared to other famous experts.
 Chazelas, in particular, probably knows more about Bourne-style shells than
 than anyone else ever has, or will, for generations. Unix.SE has succeeded in
@@ -95,7 +95,7 @@ the difference between Python 2 and Python 3. Even if you know your shell and
 don't know a scripting language that would be good for your task if you did
 know it, it's STILL often better to learn a bit of the scripting language and
 use it. Although there's quite a bit that can be done in "pure shell," at least
-with feature-rich shells like Bash, this is an unidiomiatic and typically
+with feature-rich shells like Bash, this is an unidiomatic and typically
 inferior way to write shell scripts. "Knowing" shell scripting means knowing
 how to use common external commands like those mentioned above, though for
 language interpreters that is not necessarily the same as really knowing them
@@ -105,7 +105,7 @@ The POSIX toolset is big enough that it is easy to get dispirited about
 knowledge one doesn't (or doesn't yet) possess, but remember that even partial
 proficiency goes a long way. That shells are glue languages mandate familiarity
 with standard external commands but also make it far less important than it
-otherwise would be to keep sharp on the arcane technicalities that plauge the
+otherwise would be to keep sharp on the arcane technicalities that plague the
 shells themselves.
 
 I don't recommend HackerRank has an initial learning resource for shell
