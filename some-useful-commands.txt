@@ -84,7 +84,6 @@ g++
 gawk
 gcc
 gdb
-gem
 getent
 getfacl
 git
