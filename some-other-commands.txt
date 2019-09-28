@@ -74,6 +74,7 @@ es
 eval
 eview
 evim
+evince
 ex
 expand
 expr
@@ -236,7 +237,9 @@ node
 nodejs
 nologin
 notepadqq
+npm
 nvim
+nvm
 octave
 openbox
 p7zip
@@ -257,7 +260,9 @@ posh
 ppa-purge
 print
 putty
+pw
 pwsh
+py
 pycodestyle
 pygmentize
 pypy
@@ -347,6 +352,7 @@ xzfgrep
 xzmore
 yad
 yash
+youtube-dl
 ypcat
 yum
 zenity
