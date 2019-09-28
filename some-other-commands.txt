@@ -10,6 +10,7 @@ abiword
 ack
 add-apt-repository
 ag
+alien
 apt-add-repository
 apt-key
 apt-mirror
@@ -83,10 +84,13 @@ filezilla
 finger
 firefox
 fish
+flock
+focuswriter
 fort77
 fortune
 fsharpc
 fsharpi
+function
 g77
 gcj
 gdc
@@ -95,6 +99,7 @@ gdebi-gtk
 geany
 gedit
 gem
+getopt
 getopts
 gfortran
 gimp
@@ -102,6 +107,7 @@ gitg
 gitk
 gksu
 gksudo
+gmplayer
 gnome-panel
 gnome-shell
 gnome-terminal
@@ -121,6 +127,7 @@ gview
 gvim
 halt
 hd
+hello
 hexdump
 hg
 highlight
@@ -158,6 +165,7 @@ leafpad
 let
 libreoffice
 link
+lint
 lksh
 ll
 lld
@@ -215,6 +223,7 @@ mmv
 mono
 most
 mousepad
+mplayer
 mren
 mtype
 mutter
@@ -246,6 +255,7 @@ pkg-config
 pluma
 posh
 ppa-purge
+print
 putty
 pwsh
 pycodestyle
@@ -263,6 +273,7 @@ rcp
 read
 readarray
 readonly
+rehash
 rename
 rename.ul
 return
@@ -286,6 +297,7 @@ sl
 smartctl
 split
 startx
+suspend
 tasksel
 tclsh
 tcsh
@@ -295,6 +307,7 @@ thunar
 thunderbird
 timedatectl
 times
+totem
 traceroute6
 trap
 twm
@@ -313,6 +326,7 @@ upgrade-grub
 upgrade-grub2
 useradd
 userdel
+uuidgen
 vbc
 vcpkg
 vdir
