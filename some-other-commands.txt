@@ -18,8 +18,11 @@ as
 ash
 at
 atom
+audacious
+audacity
 axel
 badblocks
+banshee
 bosh
 break
 bro
@@ -36,6 +39,7 @@ chsh
 cksum
 clang-format
 clang-tidy
+clementine
 codeblocks
 compgen
 compiz
@@ -285,6 +289,7 @@ rev
 rfkill
 rgview
 rgvim
+rhythmbox
 rksh
 rksh93
 rpm
