@@ -11,10 +11,10 @@ scripting languages are frequently recommended. But shell scripting is trickier
 than people tend to think, even experienced people, even experienced people
 who are trying to account for how tricky it is. Most unofficial guides, and
 even many unofficial (yet reputably published) books, are bad. I recommend the
-resources at Greg's wiki. There are no other unoffical FAQs, guides, tutorials,
-or walkthroughs that I would recommend (but there are some other resources,
-official and not, that I do recommend -- see below). The BashGuide is a
-possible place to start (but see below about the Bash reference manual).
+resources at Greg's wiki. There are no other unofficial FAQs, guides,
+tutorials, or walkthroughs that I would recommend (but there are some other
+resources, official and not, that I do recommend -- see below). The BashGuide
+is a possible place to start (but see below about the Bash reference manual).
 Definitely also read (or skim) BashPitfalls.
 - http://mywiki.wooledge.org/
 
