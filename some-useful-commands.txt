@@ -124,6 +124,7 @@ locale
 locate
 logout
 ls
+lsb_release
 lsblk
 lscpu
 lshw
