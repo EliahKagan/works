@@ -36,6 +36,7 @@ chown
 chroot
 clang
 clang++
+clear
 cling
 cmake
 cmp
@@ -205,6 +206,7 @@ realpath
 reboot
 renice
 reply
+reset
 rm
 rmdir
 rmmod
