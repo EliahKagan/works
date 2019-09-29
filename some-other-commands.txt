@@ -54,6 +54,7 @@ csh
 csharp
 cvs
 dc
+dconf-editor
 ddrescue
 debmirror
 debootstrap
@@ -70,6 +71,7 @@ dselect
 dus
 eclipse
 ed
+eject
 emerge
 enable
 engrampa
@@ -183,6 +185,8 @@ loimpress
 lomath
 lowriter
 lsattr
+lsblk
+lsmem
 lua
 luajit
 lxd
@@ -228,6 +232,7 @@ mono
 most
 mousepad
 mplayer
+mpv
 mren
 mtype
 mutter
@@ -263,6 +268,7 @@ posh
 ppa-purge
 print
 putty
+pv
 pw
 pwsh
 py
