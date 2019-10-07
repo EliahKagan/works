@@ -123,3 +123,4 @@ whereis
 who
 whoami
 xargs
+xdg-open
