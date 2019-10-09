@@ -18,11 +18,14 @@ as
 ash
 at
 atom
+atq
+atrm
 audacious
 audacity
 axel
 badblocks
 banshee
+batch
 bosh
 break
 bro
@@ -36,6 +39,7 @@ chattr
 chrome
 chromium-browser
 chsh
+chvt
 cksum
 clang-format
 clang-tidy
