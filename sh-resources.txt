@@ -103,10 +103,10 @@ as whole languages. In effect, the "standard library" of the shell command
 language consists of all the other utilities that POSIX requires to be present.
 The POSIX toolset is big enough that it is easy to get dispirited about
 knowledge one doesn't (or doesn't yet) possess, but remember that even partial
-proficiency goes a long way. That shells are glue languages mandate familiarity
-with standard external commands but also make it far less important than it
-otherwise would be to keep sharp on the arcane technicalities that plague the
-shells themselves.
+proficiency goes a long way. That shells are glue languages mandates
+familiarity with standard external commands but also makes it far less
+important than it otherwise would be to keep sharp on the arcane technicalities
+that plague the shells themselves.
 
 I don't recommend HackerRank has an initial learning resource for shell
 scripting, but once you have some familiarity, you can try doing all the
