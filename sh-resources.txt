@@ -108,7 +108,7 @@ familiarity with standard external commands but also makes it far less
 important than it otherwise would be to keep sharp on the arcane technicalities
 that plague the shells themselves.
 
-I don't recommend HackerRank has an initial learning resource for shell
+I don't recommend HackerRank as an initial learning resource for shell
 scripting, but once you have some familiarity, you can try doing all the
 "Linux Shell" exercises. Also, many (perhaps all) of the Regex exercises, in
 the Applications subdomain, can be used for Bash scripting practice. (Remember
