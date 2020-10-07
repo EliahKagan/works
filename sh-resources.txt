@@ -28,9 +28,9 @@ variables. Child processes that are not subshells, including child shells that
 are not subshells, only get environment variables, i.e., exported variables.
 A variable that is not inherited as an environment variable, and that is not
 exported to make it one, is just a shell variable, and is not an environment
-variable, and it does not appear in the environment a non-subshell subprocess.
-One factor that contributes to the confusion is that, when a shell runs an
-external command, it may call fork() to create a subshell. However, the
+variable, and it does not appear in the environment of a non-subshell
+subprocess. One factor that contributes to the confusion is that, when a shell
+runs an external command, it may call fork() to create a subshell. However, the
 environment of that subshell is sanitized of non-exported variables before an
 exec()-family function is called to run the external command. Once the external
 command is actually running, the subprocess is NOT a subshell anymore. I don't
