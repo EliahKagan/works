@@ -1,10 +1,17 @@
+# Shell Scripting resources
+
+## ShellCheck
+
 Check your scripts with ShellCheck, a static analyzer that supports the popular
 Bourne-style shells. This can be used online or installed on your computer, and
 it is a useful and important tool for scripters of all skill levels. Any shell
 script worth writing in the first place is probably worth checking with
 ShellCheck. Shell scripting languages are interpreted, so without static
 analysis you don't even have the benefit of seeing if your code will compile.
+
 - https://www.shellcheck.net/
+
+## Wooledge
 
 Several unofficial guides and FAQs for Bash and other Bourne-style shell
 scripting languages are frequently recommended. But shell scripting is trickier
@@ -16,7 +23,10 @@ tutorials, or walkthroughs that I would recommend (but there are some other
 resources, official and not, that I do recommend -- see below). The BashGuide
 is a possible place to start (but see below about the Bash reference manual).
 Definitely also read (or skim) BashPitfalls.
+
 - http://mywiki.wooledge.org/
+
+## On subshells&hellip;
 
 Subshells are an enormous point of confusion for novice shell scripters. A
 subprocess (also known as a child process) that happens to be a shell is not
@@ -37,7 +47,10 @@ command is actually running, the subprocess is NOT a subshell anymore. I don't
 know of any good way to explain this, really! This paragraph is a somewhat
 technical explanation. Greg's wiki has a more accessible explanation, with
 examples:
+
 - https://mywiki.wooledge.org/SubShell
+
+## GNU Bash Reference Manual
 
 The Bash reference manual, an official resource, is remarkably good and fairly
 accessible. Note that different versions of Bash do differ somewhat in their
@@ -49,7 +62,10 @@ first you don't grok it, you may want to use sources on Greg's wiki first and
 then return to it. But if you can read and understand it before anything else,
 great! It is also valuable as a reference. To view the Bash reference manual in
 a terminal, run "info bash". But you'll likely prefer it in HTML or PDF:
+
 - https://www.gnu.org/software/bash/manual/
+
+## POSIX - Shell Command Language
 
 The "Shell Command Language" chapter in POSIX standardizes the minimum
 requirements of POSIX-compatible shells. It is a somewhat difficult read, but
@@ -57,12 +73,16 @@ far less so than many language standards. I recommend reading or at least
 skimming it, at some point. It is valuable as a reference when you need to know
 specifically what features POSIX requires, but it's less accessible (even as
 a reference) than the Bash reference manual.
+
 - http://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
+
+## Stack Exchange
 
 Some Stack Exchange sites have good questions and answers about shell
 scripting. The highest quality and greatest technical depth is usually on the
 Unix & Linux Stack Exchange, with Ask Ubuntu and Stack Overflow as runners-up.
 Check relevant tags (like the bash tag) as well as searching.
+
 - https://unix.stackexchange.com/
 - https://askubuntu.com/
 - https://stackoverflow.com/
@@ -71,8 +91,10 @@ Stéphane Chazelas (whom you may know of as he discovered Bashdoor/Shellshock)
 and Gilles are extraordinarily knowledgeable about shells (as well as Unix-like
 operating system topics in general), even compared to other famous experts.
 Chazelas, in particular, probably knows more about Bourne-style shells than
-than anyone else ever has, or will, for generations. Unix.SE has succeeded in
-part because it has attracted them and they have written numerous good answers.
+than anyone else ever has, or will, for generations. Unix & Linux Stack
+Exchange has succeeded in part because it has attracted them and they have
+written numerous good answers.
+
 - https://unix.stackexchange.com/users/22565/st%C3%A9phane-chazelas
 - https://unix.stackexchange.com/users/885/gilles
 
@@ -80,7 +102,10 @@ In that vein, you may want to start with "Why is using a shell loop to process
 text considered bad practice?" by Stéphane Chazelas. This is very useful
 because it explains the important ways shell scripting languages differ from
 other programming languages in terms of how they work and should be used.
+
 - https://unix.stackexchange.com/q/169716
+
+## On how shell scripting languages are different&hellip;
 
 Shell scripting languages are primarily glue languages and that is the way they
 are best used. There may be an external command, like find or grep, that suits
@@ -108,15 +133,21 @@ familiarity with standard external commands but also makes it far less
 important than it otherwise would be to keep sharp on the arcane technicalities
 that plague the shells themselves.
 
+## HackerRank (for practice only)
+
 I don't recommend HackerRank as an initial learning resource for shell
-scripting, but once you have some familiarity, you can try doing all the
-"Linux Shell" exercises. Also, many (perhaps all) of the Regex exercises, in
-the Applications subdomain, can be used for Bash scripting practice. (Remember
-that you can, and usually should, use external tools like grep, sed, and awk.)
+scripting, but once you have some familiarity, you can try doing all the "Linux
+Shell" exercises. Also, many (perhaps all) of the Regex exercises, in the
+Applications subdomain, can be used for Bash scripting practice. (Remember that
+you can, and usually should, use external tools like grep, sed, and awk.)
+
 - https://www.hackerrank.com/domains/shell
 - https://www.hackerrank.com/domains/regex
+
+## Regex
 
 Regular expressions come up a lot in shell scripting. They also have various
 other applications in programming. If you don't know regex, I recommend reading
 the grep manpage, followed by this site, which is also a good reference:
+
 - https://www.regular-expressions.info/
