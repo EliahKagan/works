@@ -7,7 +7,8 @@ Bourne-style shells. This can be used online or installed on your computer, and
 it is a useful and important tool for scripters of all skill levels. Any shell
 script worth writing in the first place is probably worth checking with
 ShellCheck. Shell scripting languages are interpreted, so without static
-analysis you don't even have the benefit of seeing if your code will compile.
+analysis you don&lsquo;t even have the benefit of seeing if your code will
+compile.
 
 - https://www.shellcheck.net/
 
@@ -18,11 +19,11 @@ scripting languages are frequently recommended. But shell scripting is trickier
 than people tend to think, even experienced people, even experienced people who
 are trying to account for how tricky it is. Most unofficial guides, and even
 many unofficial (yet reputably published) books, are bad. I recommend the
-resources at Greg's wiki. There are no other unofficial FAQs, guides,
+resources at Greg&lsquo;s wiki. There are no other unofficial FAQs, guides,
 tutorials, or walkthroughs that I would recommend (but there are some other
-resources, official and not, that I do recommend &ndash; see below). The BashGuide
-is a possible place to start (but see below about the Bash reference manual).
-Definitely also read (or skim) BashPitfalls.
+resources, official and not, that I do recommend &ndash; see below). The
+BashGuide is a possible place to start (but see below about the Bash reference
+manual). Definitely also read (or skim) BashPitfalls.
 
 - http://mywiki.wooledge.org/
 
@@ -43,10 +44,10 @@ subprocess. One factor that contributes to the confusion is that, when a shell
 runs an external command, it may call fork() to create a subshell. However, the
 environment of that subshell is sanitized of non-exported variables before an
 exec()-family function is called to run the external command. Once the external
-command is actually running, the subprocess is NOT a subshell anymore. I don't
-know of any good way to explain this, really! This paragraph is a somewhat
-technical explanation. Greg's wiki has a more accessible explanation, with
-examples:
+command is actually running, the subprocess is NOT a subshell anymore. I
+don&lsquo;t know of any good way to explain this, really! This paragraph is a
+somewhat technical explanation. Greg&lsquo;s wiki has a more accessible
+explanation, with examples:
 
 - https://mywiki.wooledge.org/SubShell
 
@@ -58,10 +59,10 @@ features. Note also that this is NOT the same document as the manpage (`man
 bash`), though that is also somewhat useful. I recommend anyone who writes Bash
 scripts regularly, or any Bash scripts where quality is important, read this
 all the way through at least once (in order or otherwise). If at first you
-don't grok it, you may want to use sources on Greg's wiki first and then return
-to it. But if you can read and understand it before anything else, great! It is
-also valuable as a reference. To view the Bash reference manual in a terminal,
-run `info bash` But you'll likely prefer it in HTML or PDF:
+don&lsquo;t grok it, you may want to use sources on Greg&lsquo;s wiki first and
+then return to it. But if you can read and understand it before anything else,
+great! It is also valuable as a reference. To view the Bash reference manual in
+a terminal, run `info bash` But you&lsquo;ll likely prefer it in HTML or PDF:
 
 - https://www.gnu.org/software/bash/manual/
 
@@ -71,8 +72,8 @@ The &ldquo;Shell Command Language&rdquo; chapter in POSIX standardizes the
 minimum requirements of POSIX-compatible shells. It is a somewhat difficult
 read, but far less so than many language standards. I recommend reading or at
 least skimming it, at some point. It is valuable as a reference when you need
-to know specifically what features POSIX requires, but it's less accessible
-(even as a reference) than the Bash reference manual.
+to know specifically what features POSIX requires, but it&lsquo;s less
+accessible (even as a reference) than the Bash reference manual.
 
 - http://pubs.opengroup.org/onlinepubs/9699919799/utilities/V3_chap02.html
 
@@ -115,27 +116,28 @@ scripting language to implement your subtask. Domain-specific languages that
 come in handy include awk, sed, and (less frequently) bc. Those commands are
 required by POSIX (though in practice bc is often not installed). General-
 purpose scripting languages that come in handy include Python and Perl (which
-aren't required by POSIX but are usually installed on Unix-like systems). Mind
-the difference between Python 2 and Python 3. Even if you know your shell and
-don't know a scripting language that would be good for your task if you did
-know it, it's STILL often better to learn a bit of the scripting language and
-use it. Although there's quite a bit that can be done in &ldquo;pure
-shell,&rdquo; at least with feature-rich shells like Bash, this is an
-unidiomatic and typically inferior way to write shell scripts.
+aren&lsquo;t required by POSIX but are usually installed on Unix-like systems).
+Mind the difference between Python 2 and Python 3. Even if you know your shell
+and don&lsquo;t know a scripting language that would be good for your task if
+you did know it, it&lsquo;s STILL often better to learn a bit of the scripting
+language and use it. Although there&lsquo;s quite a bit that can be done in
+&ldquo;pure shell,&rdquo; at least with feature-rich shells like Bash, this is
+an unidiomatic and typically inferior way to write shell scripts.
 &ldquo;Knowing&rsquo; shell scripting means knowing how to use common external
 commands like those mentioned above, though for language interpreters that is
 not necessarily the same as really knowing them as whole languages. In effect,
 the &ldquo;standard library&rdquo; of the shell command language consists of
 all the other utilities that POSIX requires to be present. The POSIX toolset is
-big enough that it is easy to get dispirited about knowledge one doesn't (or
-doesn't yet) possess, but remember that even partial proficiency goes a long
-way. That shells are glue languages mandates familiarity with standard external
-commands but also makes it far less important than it otherwise would be to
-keep sharp on the arcane technicalities that plague the shells themselves.
+big enough that it is easy to get dispirited about knowledge one doesn&lsquo;t
+(or doesn&lsquo;t yet) possess, but remember that even partial proficiency goes
+a long way. That shells are glue languages mandates familiarity with standard
+external commands but also makes it far less important than it otherwise would
+be to keep sharp on the arcane technicalities that plague the shells
+themselves.
 
 ## HackerRank (for practice only)
 
-I don't recommend HackerRank as an initial learning resource for shell
+I don&lsquo;t recommend HackerRank as an initial learning resource for shell
 scripting, but once you have some familiarity, you can try doing all the
 &ldquo;Linux Shell&rdquo; exercises. Also, many (perhaps all) of the Regex
 exercises, in the Applications subdomain, can be used for Bash scripting
@@ -148,7 +150,8 @@ grep, sed, and awk.)
 ## Regex
 
 Regular expressions come up a lot in shell scripting. They also have various
-other applications in programming. If you don't know regex, I recommend reading
-the grep manpage, followed by this site, which is also a good reference:
+other applications in programming. If you don&lsquo;t know regex, I recommend
+reading the grep manpage, followed by this site, which is also a good
+reference:
 
 - https://www.regular-expressions.info/
